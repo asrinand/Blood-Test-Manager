@@ -1,0 +1,6 @@
+C:\DATA\VB Projects\Blood Test Manager\PBloodTestManager\Backup\PBloodTestManager\obj\x86\Debug\Interop.ADODB.dll
+C:\DATA\VB Projects\Blood Test Manager\PBloodTestManager\Backup\PBloodTestManager\obj\x86\Debug\Interop.ADOX.dll
+C:\DATA\VB Projects\Blood Test Manager\PBloodTestManager\Backup\PBloodTestManager\obj\x86\Debug\PBloodTestManager.csproj.ResolveComReference.cache
+C:\Users\Srinand\Desktop\Backup\PBloodTestManager\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\Srinand\Desktop\Backup\PBloodTestManager\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\Srinand\Desktop\Backup\PBloodTestManager\obj\x86\Debug\PBloodTestManager.csproj.ResolveComReference.cache
